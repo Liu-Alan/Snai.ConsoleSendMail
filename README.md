@@ -1,2 +1,2 @@
 # ConsoleSendMail
-C# 发邮箱
+C# 发邮件
